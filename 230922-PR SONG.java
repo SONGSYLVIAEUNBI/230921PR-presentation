@@ -22,3 +22,4 @@ public class Main{
     System.out.println(word);
     }
 }
+//20230922 ロト6番号自動発行　プログラム
